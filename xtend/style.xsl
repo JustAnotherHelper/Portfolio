@@ -3,6 +3,7 @@
   <!-- all tags -->  
   <xsl:template match="node()|@*">
     <xsl:copy>
+      <xsl:copy-of select="@*" />
       <xsl:apply-templates select="node()|@*|." />
     </xsl:copy>
   </xsl:template>

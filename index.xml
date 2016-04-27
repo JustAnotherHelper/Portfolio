@@ -37,9 +37,28 @@
         </ul>
       </div>
     </div>
-    <p>Welcome to my portfolio!</p>
-    <div>
+    <div class="table container-fluid">
+      <div class="row">
+        <div class="col-sm-10">
+          <div class="row text-center">
+            <h1>Under Construction</h1>
+          </div>
+          <div>
       <img src="images/underconstruction.jpg" class="center-block img-responsive" />
+          </div>
+        </div>
+        <div class="col-sm-2">
+          <ul class="nav nav-pills nav-stacked">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">Menu 1</a></li>
+            <li><a href="#">Menu 2</a></li>
+            <li><a href="#">Menu 3</a></li>
+            <li><a href="#">Menu 4</a></li>
+            <li><a href="#">Menu 5</a></li>
+            <li><a href="#">Menu 6</a></li>
+          </ul>
+        </div>        
+      </div>
     </div>   
   </body>
 </html>

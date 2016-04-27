@@ -6,7 +6,7 @@
       <xsl:apply-templates select="@*|node()" />      
     </xsl:copy>
   </xsl:template>
-    <xsl:template match="html/navbar">
+    <xsl:template match="navbar">
     <div class="navbar navbar-default navbar-static-top">
       <div class="container">
         <a class="navbar-brand" href="#">Brand</a>      

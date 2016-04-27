@@ -11,7 +11,7 @@
       omit-xml-declaration="no"
       encoding="utf-8"
       doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
-      doctype-sytem="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" 
+      doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" 
   />
   <!-- all tags -->  
   <xsl:template match="//*">

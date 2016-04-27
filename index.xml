@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="xtend/style.xsl"?>
+<?xml-stylesheet type="text/xml" href="xtend/style.xsl"?>
 <!DOCTYPE html5>
 <!--+===========================================================================================================================+
     | This source is designed to be viewed under 132x30 character viewport.                                                     |

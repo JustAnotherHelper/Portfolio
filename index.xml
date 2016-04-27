@@ -21,7 +21,7 @@
 
   </head>
   <body>
-    <navbar />
+    <navigation />
     <p>Welcome to my portfolio!</p>
   </body>
 </html>

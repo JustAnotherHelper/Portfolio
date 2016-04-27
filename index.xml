@@ -13,8 +13,7 @@
     <meta charset="utf-8" />
     <script src="deps/jquery/2.2.3/jquery.min.js" type="text/javascript"></script>
     <script src="deps/bootstrap/current/bootstrap.js" type="text/javascript"></script>
-    <link href="deps/bootstrap/current/bootstrap.min.css" rel="stylesheet"></link>
-    <script src="deps/bootstrap/current/bootstrap.min.js" type="text/javascript"></script>
+    <link href="deps/bootstrap/current/bootstrap.css" rel="stylesheet"></link>
   </head>
   <body>
     <navbar />

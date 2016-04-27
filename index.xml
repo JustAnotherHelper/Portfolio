@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <?xml-stylesheet type="text/xsl" href="xtend/style.xsl"?>
+<!DOCTYPE html5>
 <!--+===========================================================================================================================+
     | This source is designed to be viewed under 132x30 character viewport.                                                     |
     | * Written in XHTML(html5), which does not exist, but I use it anyway.                                                     |
     |                                                                                                                           | 
     | Written by Dmitry Makhnin                                                                                                 |
     +===========================================================================================================================+-->
-<!DOCTYPE html5>
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Dmitry's Portfolio</title>

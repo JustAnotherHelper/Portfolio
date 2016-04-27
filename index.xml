@@ -11,7 +11,7 @@
   <head>
     <title>Dmitry's Portfolio</title>
     <meta charset="utf-8" />
-    <script src="deps/jquery/2.2.3/jquery.min.js" type="text/javascript"></script>
+    <script src="deps/jquery/current/jquery.min.js" type="text/javascript"></script>
     <script src="deps/bootstrap/current/bootstrap.js" type="text/javascript"></script>
     <link href="deps/bootstrap/current/bootstrap.css" rel="stylesheet"></link>
   </head>

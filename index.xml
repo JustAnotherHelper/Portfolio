@@ -41,6 +41,9 @@
       </div>
     </div>
     <p>Welcome to my portfolio!</p>
+    <div>
+      <img src="images/underconstruction.jpg" class="center-block img-responsive" />
+    </div>   
   </body>
 </html>
 

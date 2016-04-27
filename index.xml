@@ -16,6 +16,7 @@
     <script src="deps/bootstrap/current/bootstrap.min.js" type="text/javascript"></script>
   </head>
   <body>
+    <navbar />
     <p>Welcome to my portfolio!</p>
   </body>
 </html>
